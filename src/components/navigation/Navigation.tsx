@@ -25,9 +25,9 @@ export const Navigation: React.FC<NavigationProps> = ({ activeView, onViewChange
             <div className="absolute inset-0 bg-gradient-to-br from-cyan-400 to-blue-500 rounded-2xl blur-md opacity-75 group-hover:opacity-100 transition-opacity duration-300" />
             <div className="relative w-10 h-10 md:w-12 md:h-12 bg-gradient-to-br from-cyan-400 to-blue-500 rounded-2xl flex items-center justify-center shadow-2xl transform group-hover:scale-105 transition-all duration-300 overflow-hidden">
               <img 
-                src="/omnimeet-logo.png" 
+                src="/lovable-uploads/f2c4748b-051b-49c1-a8b8-f7eed11ff513.png" 
                 alt="OmniMeet Logo" 
-                className="w-6 h-6 md:w-8 md:h-8 object-contain filter brightness-0 invert"
+                className="w-8 h-8 md:w-10 md:h-10 object-contain"
               />
             </div>
           </div>
